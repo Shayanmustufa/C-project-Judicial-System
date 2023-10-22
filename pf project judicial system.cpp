@@ -251,7 +251,7 @@ switch(option2)
 		{
 			main();
 			cout<<endl;
-			
+			break;
 		}
 			
 		}
